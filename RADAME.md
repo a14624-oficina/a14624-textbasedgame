@@ -13,7 +13,7 @@ Os caminhos alternativos estão cheios desafios como por exemplo mostro e armadi
 
 3 Técnicas de Implementação
 a.	Estrutura do Código: Descreve como organizaste o código em funções (se aplicável), explicando como facilita a leitura e manutenção.
-Def- foi para a introdução e para a mochila 
+def-para introdução
 If- para os caminhos 
 While -para o fim de jogo e também para se começar de novo o jogo
 Input- para escolha se quiser ir para direita ou esquerda 
